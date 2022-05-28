@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vikas Verma
+- 👋 Hi, I’m Vikas Verma.
 - 👀 I’m interested in working with world class community to develop technology.
 - 🌱 I’m currently learning how to get employed in Google.
 - 💞️ I’m looking to collaborate on my project IDE.
